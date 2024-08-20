@@ -10,3 +10,6 @@
 &nbsp; DataCamp 
 #### Tag: 
 &nbsp; Unsupervised Machine Learning, Cluster Analysis 
+### Background 
+A quick and straightforward project that using unsupervised learning techniques on dataset regarding Antarctic Penguin Sepecies. 
+Through this project to uncover patterns, clusters, and relationship that exist within the dataset. 
